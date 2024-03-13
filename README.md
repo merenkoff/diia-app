@@ -1,7 +1,12 @@
 # Diia
-
-
 This repository provides an overview over the flagship product [**Diia**](https://diia.gov.ua/) developed by the [**Ministry of Digital Transformation of Ukraine**](https://thedigital.gov.ua/).
+
+
+![Diia - Source code of the government product open for everyone](https://github.com/diia-open-source/.github/blob/main/profile/header%20profile.png)
+
+# Welcome
+Diia is an app with access to citizen’s digital documents and government services.
+
  
 **Diia** is an app with access to citizen’s digital documents and government services.
  
